@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&pause=1000&color=FF0000&center=true&vCenter=true&width=700&height=120&lines=🌍+𝛧𝚵𝐘𝐍𝐎-𝚩𝚯𝐓+🌍;THE+LETHAL+STRIKE;DEVELOPED+BY+BLOOD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&pause=1000&color=FF0000&center=true&vCenter=true&width=700&height=120&lines=🌍+𝛧𝚵𝐘𝐍𝐎-𝚩𝚯𝐓+🌍;THE+LETHAL+STRIKE;DEVELOPED+BY+ENDY" alt="Typing SVG" />
 </p>
 
 <p align="center">
